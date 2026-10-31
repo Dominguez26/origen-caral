@@ -1,0 +1,30 @@
+.page {
+  padding-top: calc(var(--alto-menu) + 88px);
+  padding-bottom: var(--entre-secciones);
+}
+
+.updated {
+  margin: 20px 0 64px;
+  font-size: 14px;
+  color: var(--tinta-suave);
+}
+
+.section {
+  max-width: 720px;
+  padding: 28px 0;
+  border-top: 1px solid var(--linea);
+}
+
+.heading {
+  margin: 0 0 16px;
+  font-family: var(--font-serif), Georgia, serif;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 1.1;
+}
+
+@media (max-width: 800px) {
+  .heading {
+    font-size: 26px;
+  }
+}

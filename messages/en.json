@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "Origen Caral",
+    "description": "A collection of digital characters from the cultures of ancient Peru, from Caral to the Incas."
+  },
+  "common": {
+    "skipToContent": "Skip to content",
+    "brand": "Origen Caral"
+  },
+  "nav": {
+    "label": "Main",
+    "journey": "The journey",
+    "collection": "Collection",
+    "founders": "Founders",
+    "language": "Language",
+    "openMenu": "Menu",
+    "closeMenu": "Close menu",
+    "spanish": "Español",
+    "english": "English"
+  },
+  "hero": {
+    "imageAlt": "At dawn, three figures seen from behind look at the Main Pyramid of Caral, with a beam of light rising from it; on the left the sea and the desert with Nazca lines, in the background the snow-capped Andes and on the right the jungle covered in mist.",
+    "label": "Peru, from 3000 BCE to 1532 CE",
+    "title": "It all began here.",
+    "subtitle": "Five thousand years of cultures, lands and flavors, in a single journey.",
+    "cta": "Discover"
+  },
+  "origin": {
+    "label": "The origin",
+    "title": "A thousand years before any other city in the Americas, pyramids already rose in the Supe Valley.",
+    "text": "Origen Caral is a journey through the cultures of ancient Peru. Each character in the collection tells the story of its people and takes you to the place where they lived.",
+    "cta": "See the journey"
+  },
+  "journey": {
+    "label": "The journey",
+    "title": "Eight cultures, eight stops.",
+    "listLabel": "The eight cultures of the journey",
+    "stops": {
+      "caral": { "name": "Caral", "era": "Around 3000 BCE", "site": "Sacred City of Caral" },
+      "chavin": { "name": "Chavín", "era": "1200 – 200 BCE", "site": "Chavín de Huántar" },
+      "paracas": { "name": "Paracas", "era": "800 BCE – 100 CE", "site": "Paracas, Ica" },
+      "nazca": { "name": "Nazca", "era": "100 – 800 CE", "site": "Lines and Cahuachi" },
+      "moche": { "name": "Moche", "era": "100 – 700 CE", "site": "Huaca de la Luna" },
+      "wari": { "name": "Wari", "era": "600 – 1000 CE", "site": "Wari Complex, Ayacucho" },
+      "chimu": { "name": "Chimú", "era": "900 – 1470 CE", "site": "Chan Chan" },
+      "inca": { "name": "Inca", "era": "1400 – 1532 CE", "site": "Machu Picchu" }
+    }
+  },
+  "collection": {
+    "imagePlaceholder": "[Render: The Musician of the Sacred City]",
+    "label": "The collection",
+    "title": "Characters that hold a story.",
+    "text1": "Flutes made of pelican and condor bone were found in the temples of Caral. The Musician of the Sacred City is the first in the collection.",
+    "text2": "Each character comes with its story, a certificate of authenticity and a chip that connects it to the journey.",
+    "cta": "Explore the collection"
+  },
+  "founders": {
+    "label": "Founders Edition",
+    "title": "One hundred editions per character. Not one more.",
+    "text": "Those who join first will receive an edition number from 001 to 100 and exclusive benefits as founders.",
+    "cta": "Reserve my edition"
+  },
+  "foundersPage": {
+    "meta": {
+      "title": "Founders Edition",
+      "description": "Only 100 editions per character. Reserve your place on the Origen Caral waitlist."
+    },
+    "label": "Founders Edition, only 100 per character",
+    "title": "Be among the first to keep 5,000 years of history.",
+    "text": "Origen Caral begins with three characters from the cultures of ancient Peru. Those who acquire them today will be founders of the project and will receive benefits no one else will have.",
+    "characters": {
+      "label": "Characters",
+      "title": "The first three characters",
+      "attributesLabel": "Attributes",
+      "items": {
+        "musician": {
+          "name": "The Musician of the Sacred City",
+          "culture": "Caral, around 3000 BCE",
+          "story": "Flutes made of pelican and condor bone were found in the temples of Caral. He plays for the ceremonies of the oldest city in the Americas.",
+          "attributes": "Cotton mantle, bone flute, colored beads",
+          "image": "[Render: The Musician of the Sacred City]"
+        },
+        "warrior": {
+          "name": "The Moche Warrior",
+          "culture": "Moche, 100 – 700 CE",
+          "story": "Moche ceramics portray elite warriors in ritual combat. He wears the gold ornaments that set apart the lords of the north.",
+          "attributes": "Crescent headdress, gold nose ornament, club and shield",
+          "image": "[Render: The Moche Warrior]"
+        },
+        "priestess": {
+          "name": "The Priestess of Paracas",
+          "culture": "Paracas, 800 BCE – 100 CE",
+          "story": "The embroidered mantles of Paracas are among the finest textiles of the ancient world. She guards their colors and their symbols.",
+          "attributes": "Embroidered mantle, diadem, Oculate Being motifs",
+          "image": "[Render: The Priestess of Paracas]"
+        }
+      }
+    },
+    "editions": {
+      "label": "Editions",
+      "title": "Editions and prices",
+      "currency": "USD",
+      "cta": "Reserve",
+      "includesLabel": "Includes",
+      "note": "Benefits at archaeological sites and restaurants will be announced once the corresponding agreements are signed and are not part of this edition.",
+      "items": {
+        "essential": {
+          "name": "Essential",
+          "price": "50",
+          "includes": [
+            "Your 3D character in the app",
+            "Its story and the story of its culture",
+            "Digital certificate of authenticity"
+          ]
+        },
+        "collector": {
+          "name": "Collector",
+          "price": "80",
+          "includes": [
+            "Everything in Essential",
+            "Anime-style version of the same character",
+            "See it in augmented reality from your phone"
+          ]
+        },
+        "founder": {
+          "name": "Founder",
+          "badge": "Only 100 per character",
+          "price": "100",
+          "includes": [
+            "Everything in Collector",
+            "Edition number from 001 to 100",
+            "Your name on the founders wall",
+            "First access to each new character",
+            "Discount on the physical figure when it launches [% TO BE DEFINED]"
+          ]
+        }
+      }
+    },
+    "waitlist": {
+      "title": "Reserve your edition",
+      "text": "Leave your email and we will let you know on launch day, before the general public.",
+      "emailLabel": "Email",
+      "consent": "I agree to receive emails from Origen Caral about the launch.",
+      "privacyLink": "Privacy policy",
+      "submit": "I want to be a founder",
+      "sending": "Sending",
+      "success": "Done. We will write to you before the launch.",
+      "errorEmail": "Enter a valid email, for example name@email.com.",
+      "errorConsent": "Tick the box so we can contact you.",
+      "errorSend": "We could not save your email. Please try again in a few minutes."
+    }
+  },
+  "legal": {
+    "pending": "[TO BE CONFIRMED]",
+    "updated": "Last updated",
+    "terms": {
+      "title": "Terms",
+      "sections": ["Terms of use", "Purchases and delivery", "Intellectual property", "Contact"]
+    },
+    "privacy": {
+      "title": "Privacy",
+      "sections": ["What data we collect", "How we use it", "Your rights", "Contact"]
+    },
+    "complaints": {
+      "title": "Complaints book",
+      "sections": ["Provider details", "Claim or complaint form", "Contact"]
+    }
+  },
+  "footer": {
+    "city": "Lima, Peru",
+    "navLabel": "Footer",
+    "legalLabel": "Legal information",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "complaints": "Complaints book"
+  }
+}

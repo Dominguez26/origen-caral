@@ -1,0 +1,83 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 480px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.label {
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.input {
+  min-height: 48px;
+  padding: 0 16px;
+  border: 1px solid var(--tinta);
+  border-radius: 2px;
+  background: var(--blanco-roto);
+  color: var(--tinta);
+  font: inherit;
+  font-size: 17px;
+}
+
+.consent {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--tinta-suave);
+}
+
+.checkbox {
+  flex: none;
+  width: 20px;
+  height: 20px;
+  margin: 1px 0 0;
+  accent-color: var(--tinta);
+}
+
+.error {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #8a2e1c;
+}
+
+.button {
+  align-self: flex-start;
+  min-height: 48px;
+  padding: 0 28px;
+  border: 0;
+  border-radius: 2px;
+  background: var(--tinta);
+  color: var(--piedra);
+  font: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+}
+
+.button:disabled {
+  opacity: 0.6;
+  cursor: progress;
+}
+
+.success {
+  margin: 0;
+  max-width: 480px;
+  padding-top: 20px;
+  border-top: 1px solid var(--tinta);
+  font-family: var(--font-serif), Georgia, serif;
+  font-size: 26px;
+  line-height: 1.2;
+}

@@ -35,6 +35,8 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: "meta" });
 
   return {
+    // TODO: definir NEXT_PUBLIC_SITE_URL con el dominio real antes del despliegue.
+    metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3100"),
     title: t("title"),
     description: t("description"),
     alternates: {
